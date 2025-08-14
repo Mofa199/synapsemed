@@ -4,7 +4,6 @@
 This guide will help you connect your Synapse Med application to a real database using Neon (PostgreSQL).
 
 ## Prerequisites
-- Neon integration already configured in your v0 project
 - Environment variables available (DATABASE_URL, etc.)
 
 ## Database Schema

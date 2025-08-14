@@ -1,9 +1,6 @@
 # Synapse Med Project
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
-
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/mohamedfaisal199-3777s-projects/v0-synapse-med-project)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/02wZ7Lfiv6o)
 
 ## Overview
 
@@ -284,11 +281,6 @@ npm run start
 
 Your project is live at:
 **[https://vercel.com/mohamedfaisal199-3777s-projects/v0-synapse-med-project](https://vercel.com/mohamedfaisal199-3777s-projects/v0-synapse-med-project)**
-
-## 🔗 Continue Building
-
-Continue building your app on:
-**[https://v0.app/chat/projects/02wZ7Lfiv6o](https://v0.app/chat/projects/02wZ7Lfiv6o)**
 
 ---
 

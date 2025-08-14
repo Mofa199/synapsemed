@@ -9,7 +9,6 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Synapse Med - Connect. Learn. Master Medicine.",
   description: "A modern, interactive online library for medical, nursing, and pharmacy students",
-  generator: "v0.dev",
 }
 
 export default function RootLayout({
